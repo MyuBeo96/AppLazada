@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="m_button_textsize">16sp</dimen>
+    <dimen name="m_header_textsize">14sp</dimen>
+    <dimen name="m_header_height">35sp</dimen>
+    <dimen name="m_text_height">30dp</dimen>
+    <dimen name="m_button_height">40dp</dimen>
+    <dimen name="m_button_width">90dp</dimen>
+
+    <dimen name="m_edittext_size">16sp</dimen>
+    <item name="m_edittext_size_value" format="integer" type="dimen">16</item>
+    <dimen name="m_label_size">16sp</dimen>
+    <item name="m_label_size_value" format="integer" type="dimen">16</item>
+    <dimen name="m_content_size">16sp</dimen>
+    <item name="m_content_size_value" format="integer" type="dimen">16</item>
+
+
+</resources>

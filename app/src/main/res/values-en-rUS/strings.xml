@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLazada</string>
+    <string name="ChooseALanguage">Choose a language</string>
+    <string name="Language">ENG</string>
+</resources>
